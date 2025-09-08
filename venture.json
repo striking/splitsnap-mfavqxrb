@@ -1,0 +1,28 @@
+{
+  "name": "SplitSnap",
+  "slug": "splitsnap-mfavqxrb",
+  "description": "Take a photo of any receipt or type an expense, instantly see who owes what, and share a link to settle up - no signup required",
+  "targetAudience": "Roommates aged 22-35 who regularly share groceries, utilities, and household items",
+  "valueProposition": "Calculate and share expense splits in 10 seconds without anyone creating an account",
+  "techStack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Supabase"
+  ],
+  "features": [
+    "Quick expense entry: Snap a receipt photo or type amount + description",
+    "Instant split calculator: Add names, auto-splits evenly or custom percentages",
+    "Share via link: Copy a unique URL that shows who owes what - works without app",
+    "Running balance: See all unsettled expenses and net amounts owed between people",
+    "One-tap feedback: 'Did this save you time?' prompt after settling up"
+  ],
+  "monetization": {
+    "model": "subscription",
+    "price": 50,
+    "currency": "usd"
+  },
+  "githubRepo": "https://github.com/striking/splitsnap-mfavqxrb",
+  "ventureId": "126674be-852e-4427-9fb3-73749a695ad5",
+  "createdAt": "2025-09-08T08:48:56.873Z"
+}
